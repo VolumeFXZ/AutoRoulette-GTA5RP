@@ -1,4 +1,4 @@
-UrlDownloadToFile, https://raw.githubusercontent.com/DaDoro/AHK/resources/roulette.png, %a_temp%\roulette.png
+UrlDownloadToFile, https://raw.githubusercontent.com/VolumeFXZ/AutoRoulette-GTA5RP/main/roulette.png
 
 F6::
 loop, {
